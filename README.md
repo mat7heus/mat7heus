@@ -3,29 +3,29 @@
 </div>
 <br>
 
+# Olá, eu sou o Matheus :)
+**Analista de Cibersegurança** | Cyber Threat Intelligence 🦉
+
 # Matheus Santos
 **Analista de Cibersegurança** · Engenharia de Detecção · CTI · CSIRT
 
----
-
-## Sobre
-
-Profissional de cibersegurança com atuação em engenharia de detecção, inteligência de ameaças (CTI) e resposta a incidentes. Desenvolvo e melhoro regras de detecção, monitoro ameaças emergentes e apoio na mitigação de riscos operacionais com base em frameworks reconhecidos pelo mercado.
-
-- **Foco atual:** Engenharia de detecção, inteligência de ameaças e resposta a incidentes
-- **Objetivo:** Fortalecer posturas de segurança através de inteligência aplicada
-- **Mindset:** Minimalismo operacional e excelência técnica
-
----
-
-## Stack
-
-### Segurança
+### Áreas de Atuação
 ![CTI](https://img.shields.io/badge/CTI-Threat_Intelligence-red?style=flat-square)
 ![CSIRT](https://img.shields.io/badge/CSIRT-Incident_Response-orange?style=flat-square)
 ![Detection Engineering](https://img.shields.io/badge/Detection-Engineering-green?style=flat-square)
 
-### Linguagens
+
+## Sobre
+
+Possuo sólida trajetória em Engenharia de Detecção, Cyber Threat Intelligence e Resposta a Incidentes. Atuo no desenvolvimento e melhorias de detecção, análise e monitoramento de inteligência de ameaças e mitigação de riscos operacionais. Busco constantemente a excelência técnica através de processos organizados e frameworks de segurança, priorizando sempre a proteção de ativos críticos e melhoria contínua da maturidade de segurança do ambiente.
+
+- **Foco de atuação:** Engenharia de detecção, inteligência de ameaças e resposta a incidentes
+- **Objetivo:** Colaborar com o fortalecimento e melhoria da maturidade de segurança através do uso de boas práticas de segurança e excelência técnica e operacional
+- **Mindset:** Minimalismo operacional e excelência técnica
+
+---
+
+### Linguagens nas quais mais uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -34,10 +34,10 @@ Profissional de cibersegurança com atuação em engenharia de detecção, intel
 
 | Categoria | Ferramentas |
 |-----------|-------------|
-| SIEM / EDR | QRadar, FortiEDR, Harmony |
-| Network / WAF | Fortigate, Palo Alto, Azion |
-| Visualização | Grafana |
-| Frameworks | MITRE ATT&CK, NIST, SANS, F3EAD, Admiralty Code |
+| Soluções de Segurança | QRadar, Palo Alto, Zenoss, Wireshark, Snort, Fortigate, FortiAnalyzer, FortiEDR, FortiSIEM, FortiSwitch, Harmony, Azion e Ecotrust.
+| Soluções de Monitoramento | Grafana, Datadog, Zabbix
+| Frameworks de Segurança | MITRE ATT&CK, NIST, SANS, F3EAD, Admiralty Code e Cyber Kill Chain
+| Inteligência de Ameaças Cibernéticas | VirusTotal, AbuseIPDB, Shodan, AbuseCH, Maltego e outros...
 
 ---
 
@@ -50,5 +50,5 @@ Profissional de cibersegurança com atuação em engenharia de detecção, intel
 ## Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat7heus&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=mat7heus&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Meu GitHub Stats" height="200">
 </p>
