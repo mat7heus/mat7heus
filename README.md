@@ -1,7 +1,6 @@
 <div>
   <img src="./images/banner.jpg" alt="Banner do repositório 'Be Safe'">
 </div>
-<br>
 
 # Olá, eu sou o Matheus :)
 **Analista de Cibersegurança** | Cyber Threat Intelligence 🦉
