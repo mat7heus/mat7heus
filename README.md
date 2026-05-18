@@ -1,5 +1,5 @@
 <div>
-  <img src="./images/banner.png" alt="Banner do repositório 'Be Safe'">
+  <img src="./images/banner-readme.png" alt="Banner do repositório 'Be Safe'">
 </div>
 
 # Prazer, Matheus
