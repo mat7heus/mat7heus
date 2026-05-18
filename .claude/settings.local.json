@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\mateu\\\\Desktop\\\\mat7heus\" log --oneline -5)",
+      "Bash(git -C \"c:\\\\Users\\\\mateu\\\\Desktop\\\\mat7heus\" show afcf641:README.md)",
+      "Bash(git -C \"c:\\\\Users\\\\mateu\\\\Desktop\\\\mat7heus\" checkout afcf641 -- README.md)"
+    ]
+  }
+}
